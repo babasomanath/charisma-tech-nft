@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/charisma-tech-nft/static/css/main.073c9b0a.css",
+    "main.js": "/charisma-tech-nft/static/js/main.1f28e0d4.js",
+    "static/js/787.c475ef04.chunk.js": "/charisma-tech-nft/static/js/787.c475ef04.chunk.js",
+    "static/media/logo.svg": "/charisma-tech-nft/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/charisma-tech-nft/index.html",
+    "main.073c9b0a.css.map": "/charisma-tech-nft/static/css/main.073c9b0a.css.map",
+    "main.1f28e0d4.js.map": "/charisma-tech-nft/static/js/main.1f28e0d4.js.map",
+    "787.c475ef04.chunk.js.map": "/charisma-tech-nft/static/js/787.c475ef04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1f28e0d4.js"
+  ]
+}
